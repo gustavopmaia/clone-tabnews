@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Olá, mundo!! Eu sou o Gustavo Maia</h1>;
+  return <h1>Gustavo Maia - NyxDev</h1>;
 }
 
 export default Home;
